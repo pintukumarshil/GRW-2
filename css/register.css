@@ -1,0 +1,166 @@
+*{margin: 0;padding: 0;box-sizing: border-box;}
+#signinmain{}
+.container{width: 970px;margin: auto;}
+.Register_form{background-image: url(../image/background.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;text-align: center;width: 100%;float: left;}
+.signin{
+font-size: 20px;
+color: #fff;
+padding: 30px 0px;
+width: 100%;
+float: left;
+}
+.login_part{
+width: 100%;
+float: left;
+
+}
+.fist_name{
+	width: 100%;
+	float: left;}
+.text{
+width: 50%;
+float: left;
+padding: 0px 39px;
+  }
+.text input{
+	padding: 14px;
+width: 100%;
+border-radius: 15px;
+outline: none;
+border: none;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+font-size: 18px;
+margin-top: 20px;
+background: transparent;
+border-bottom: 2px solid aliceblue;
+color: #fff;
+font-weight: 600;
+  }
+  .text2{
+width: 50%;
+float: left;
+padding: 0px 39px;
+}
+.text2 input{
+	padding: 14px;
+width: 100%;
+border-radius: 15px;
+outline: none;
+border: none;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+font-size: 18px;
+margin-top: 20px;
+background: transparent;
+border-bottom: 2px solid aliceblue;
+color: #fff;
+font-weight: 600;
+}
+.male{
+width: 100%;
+float: left;
+margin: auto;
+padding: 0px 39px;
+}
+.male input{
+width: 100%;
+padding: 17px;
+border-radius: 15px;
+border: none;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+outline: none;
+margin: 20px 0px;
+font-size: 18px;
+background: transparent;
+border-bottom: 2px solid aliceblue;
+color: #fff;
+font-weight: 600;
+}
+.passw{width: 100%;
+	float: left;
+}
+.pass{
+width: 50%;
+float: left;
+padding: 0px 39px;
+}
+.pass input{
+	padding: 14px;
+width: 100%;
+border-radius: 15px;
+outline: none;
+border: none;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+border-bottom-color: currentcolor;
+border-bottom-style: none;
+border-bottom-width: medium;
+font-size: 18px;
+margin-top: 20px;
+background: transparent;
+border-bottom: 2px solid aliceblue;
+color: #fff;
+font-weight: 600;
+}
+.pass2{
+width: 50%;
+float: left;
+padding: 0px 39px;
+}
+.pass2 input{
+	padding: 14px;
+width: 100%;
+border-radius: 15px;
+outline: none;
+border: none;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+border-bottom-color: currentcolor;
+border-bottom-style: none;
+border-bottom-width: medium;
+font-size: 18px;
+margin-top: 20px;
+background: transparent;
+border-bottom: 2px solid aliceblue;
+color: #fff;
+font-weight: 600;
+}
+.links{width: 100%;
+	float: left;
+	justify-content: space-between;
+	display: flex;
+	color: #fff;
+	font-weight: 700;
+	padding: 40px;
+}
+.links input{
+
+}
+.links p{
+	margin-right: 600px;
+}
+.links a{text-decoration: none;}
+
+.login{
+width: 100%;float: left;
+}
+.login a{text-decoration: none;}
+.login input{
+padding: 15px 58px;
+font-size: 18px;
+font-weight: 700;
+border-radius: 15px;
+outline: none;
+border: none;
+box-shadow: 5px 10px 9px #a49c9c;
+color: pink;
+background: gray;
+margin-bottom: 50px;
+}
